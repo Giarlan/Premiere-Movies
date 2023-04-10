@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-image: url("");
+
+
+}
+
+p {
+    min-width: none;
+    max-width: 600px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 20px;
+    text-align: left;
+    font-size: 30px;
+}
+
+.footer {
+    margin-top: 33em;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+    margin: 5px;
+}
+
+ul {
+    margin-right: 4em;
+}
+
+i {
+    margin-left: 4em;
+    color: #101010;
+}
+
