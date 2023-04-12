@@ -31,5 +31,6 @@
 
 Developed By Giarlan Santana | Get in touch via social media!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Giarlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giarlan-santana-367022152/)](https://www.linkedin.com/in/giarlan-santana-367022152/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Giarlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giarlan-santana-367022152/)](https://www.linkedin.com/in/giarlan-santana-367022152/)
+[![Instagram Badge](https://img.shields.io/badge/-Giarlan-CE59CE?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/santana.fsd/)](https://www.instagram.com/santana.fsd/)
+[![Gmail Badge](https://img.shields.io/badge/-giarlansilva@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giarlansilva@gmail.com)](mailto:giarlansilva@gmail.com)
