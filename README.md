@@ -24,12 +24,12 @@
 ---
 
 <a href="https://www.instagram.com/santana.fsd/">
- <img style="border-radius: 50%;" src="" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/108962578/231322748-dab2928a-a426-453c-9f2a-23d6b6bc104d.png" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Giarlan Santana</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
 
-Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
+Developed By Giarlan Santana | Get in touch via social media!
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Giarlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giarlan-santana-367022152/)](https://www.linkedin.com/in/giarlan-santana-367022152/) 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
